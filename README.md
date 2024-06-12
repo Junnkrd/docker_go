@@ -40,5 +40,8 @@ Etapas:
 
 - docker run junnkrd/fullcycle
 
-Resultado:
+5. Imagem para o dockerhub
+
+- docker push junnkrd/fullcycle
+
 ![Logs no terminal](print/print_go_docker.png)
