@@ -41,4 +41,4 @@ Etapas:
 - docker run junnkrd/fullcycle
 
 Resultado:
-![Descrição da imagem](print_go_docker.png)
+![Logs no terminal](print/print_go_docker.png)
