@@ -1,4 +1,4 @@
-Projeto prtático docker: Imagem utilizando Go Lang
+Projeto prático docker: Imagem utilizando Go Lang
 
 Sobre o Desafio:
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
