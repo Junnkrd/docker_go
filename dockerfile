@@ -11,7 +11,7 @@ COPY . .
 # Desabilita CGO (C Go) e Remove informações de depuração e símbolos de string do binário
 RUN CGO_ENABLED=0 GOOS=linux go build -ldflags="-s -w" -o main .
 
-# Comprimir o binário usando upx
+# Comprimir o binário usando upx 
 RUN upx --best main
 
 # Use uma imagem base mínima
